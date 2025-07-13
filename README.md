@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 NLW - Conceitos Fundamentais de Desenvolvimento Web
 
 Este repositório contém anotações e conceitos fundamentais aprendidos durante o NLW (Next Level Week).
